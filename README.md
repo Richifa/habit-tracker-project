@@ -53,8 +53,8 @@ python -m pytest
 ## Screenshots
 
 **Unit Test Results:**
-![Test Results](test_results.png)
+![Test Results](test_results.PNG)
 
 **Application Running:**
-![App Results](app_results.png)
+![App Results](app_results.PNG)
 
